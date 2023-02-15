@@ -15,6 +15,8 @@ Steps to use:
 
 6- Upload Image or video to test.
 
+Check this video to understand the code: https://youtu.be/zoic7UYo60M
+
 
 ![image](https://user-images.githubusercontent.com/60029146/218945000-d7ee4913-d675-47b3-8a07-3d5f2ae7dc3e.png)
 
